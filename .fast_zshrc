@@ -101,7 +101,7 @@ source $ZSH/oh-my-zsh.sh
 alias r="source ~/.zshrc"
 alias ez="vim ~/.zshrc"
 alias mux="tmuxinator"
-alias emux="vim ~/.tmux.conf"
+alias et="vim ~/.tmux.conf"
 ailas ev="vim ~/.vimrc"
 
 if command -v tmux &> /dev/null && [ -z "$TMUX" ]; then
