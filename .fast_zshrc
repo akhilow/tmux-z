@@ -98,8 +98,6 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias novus="ssh -t hubble-dev@10.5.57.222 'cd james/transformer/rlow; bash'"
-#alias novus="ssh hubble-dev@10.5.57.222"
 alias r="source ~/.zshrc"
 alias ez="vim ~/.zshrc"
 alias mux="tmuxinator"
